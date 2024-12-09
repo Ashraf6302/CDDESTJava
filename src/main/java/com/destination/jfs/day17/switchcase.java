@@ -12,7 +12,7 @@ public class switchcase {
 		int n2 = sc.nextInt();
 		
 		System.out.println("select your choice :\n"
-				+ "1. add\n"
+				+ "1.add\n"
 				+ "2.sub\n"
 				+ "3.mul\n"
 				+ "4.div\n");

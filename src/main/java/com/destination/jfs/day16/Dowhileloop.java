@@ -8,7 +8,7 @@ public class Dowhileloop {
 		{
 			System.out.println("hello good");
 			i++;
-		}while(i<=5);
+		}while(i<=6);
 		
 
 	}
